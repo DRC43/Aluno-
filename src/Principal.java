@@ -17,8 +17,8 @@ public class Principal {
         AlunoUFSC aluno2 = new AlunoUFSC("Dener Corrêa", "2022-010203",
                 9.5, 1.5, 6.4);
 
-        aluno1.setNomeAluno("Dener Corrêa");
-        aluno1.setMatricula("2022-010203");
+        aluno1.setNomeAluno(" Dener Corrêa");
+        aluno1.setMatricula(" 2022-010203");
         aluno1.setProva1(5.5);
         aluno1.setProva2(8.5);
 
@@ -29,8 +29,8 @@ public class Principal {
 
         AlunoUniville aluno3 = new AlunoUniville();
         AlunoUniville aluno4 = new AlunoUniville(6.5, 5.5, 9.5);
-        aluno3.setNomeAluno("Deivid Corrêa");
-        aluno3.setMatricula("2022-030201");
+        aluno3.setNomeAluno(" Deivid Corrêa");
+        aluno3.setMatricula(" 2022-030201");
         aluno3.setProva1(6.5);
         aluno3.setProva2(5.5);
         aluno3.setProva3(9.5);
