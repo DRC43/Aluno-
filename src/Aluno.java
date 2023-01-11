@@ -1,7 +1,7 @@
 public abstract class Aluno {
     private String nomeAluno;
     private String matricula;
-
+    int a;
     private double prova1;
     private double prova2;
     private double prova3;
